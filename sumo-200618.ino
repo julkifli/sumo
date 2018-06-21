@@ -1,6 +1,6 @@
 //Code for MiCRO SUMOBOT
 //MOTOR CONTROL
-//revise after 10k resistor pull up for opponent sensor-20/6/2018
+//revise after add 0k resistor pull up for opponent sensor-20/6/2018
 int RPwm = 11;
 int RDir = 13;
 int RDir2 = 2;
